@@ -1,4 +1,4 @@
-# React Toast Popup
+# React Toast Popup is a component which you can install as an npm package in your system
 
 React Toast Popup is a simple and customizable toast notification component for React applications.
 
