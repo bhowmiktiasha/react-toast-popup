@@ -8,7 +8,7 @@
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "react-scripts start" 
+    "start": "react-scripts start"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.6",
+    "@types/estree": "^1.0.5",
     "@types/react": "^18.3.3",
     "react": "^18.3.1",
     "rollup": "^4.18.1",
@@ -25,10 +26,6 @@
     "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.6.3",
     "typescript": "^5.5.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/piyush-eon/react-toast-popup.git"
   },
   "keywords": [
     "react",
